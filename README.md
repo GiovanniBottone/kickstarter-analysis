@@ -8,8 +8,7 @@ The purpose of the project is to help Louise better understand how different cam
 
 ## Analysis and Challenges
 
-###Analysis of outcomes based on Theatre Outcomes by Launch Date
-
+### Analysis of outcomes based on Theatre Outcomes by Launch Date
 ![Theatre_Outcomes_vs_Launch.png](https://github.com/GiovanniBottone/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 The main takeaway from Theatre Outcomes by launch Date should be focused on idntifying the most and least successful launch dates. Once these have been identified, Louise will have a much better understanding of her projects timeline. The most successful month for launch dates is May by chart standards and percentage standards, May has the highest success rate 67%, which can be found by dividing the Column Labels successful by GrandTotal. According to the chart May also has the highest fail rate; however, when you divide failed by total projects you'll see that May actually has the lowest failure percentage, 31%. December has the highest fail rate, 47%, and the lowest success rate, 49%. The second lowest success month according to the chart is November; however, when you dive into the percentages (Column labels successful / Total Projects) you'll see that October actually has the second lowest success rate, 57% compared to Novembers 61%)
 
