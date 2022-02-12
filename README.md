@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends in the film industry for Louise to use while considering the ideal project launch month and funding goal based on previous success rates.
 
 ### Purpose
 The purpose of the project is to help Louise better understand how different campaigns fared in relation to their launch dates and their funding goals.
